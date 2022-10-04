@@ -1,2 +1,2 @@
-# dio_desafio_github
+# dio_github
 ### Desafio de Projeto, criando seu primeiro repositório.
